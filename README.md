@@ -1,4 +1,4 @@
-# Shadyar Hawar Abdalla
+# 9VA
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Curious+by+nature.;Building+things+that+interest+me.;Exploring+the+world+of+cybersecurity.;Always+experimenting.+Always+learning." />
@@ -14,7 +14,7 @@
 
 ### `whoami`
 
-I'm Shadyar — someone fascinated by technology, the way systems work, and the possibilities behind turning ideas into reality.
+I'm 9VA — someone fascinated by technology, the way systems work, and the possibilities behind turning ideas into reality.
 
 My interests sit somewhere between cybersecurity, software, automation, and experimental projects. I enjoy going beyond the surface, understanding how things work internally, finding weaknesses, exploring unconventional solutions, and building tools that solve interesting problems.
 
